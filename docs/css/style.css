@@ -57,7 +57,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: yellow;
 }
 
 .lead {
@@ -70,7 +70,7 @@ li {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #fff;
+  background-color: rgb(0, 255, 64);
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
 
@@ -208,7 +208,7 @@ li {
 
 .page-top .material-icons-outlined {
   vertical-align: bottom;
-  color: #fff;
+  color: rgb(128, 255, 0);
 }
 
 /*--- footer ---*/
