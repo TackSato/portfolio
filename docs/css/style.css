@@ -41,7 +41,7 @@ ul, li {
 }
 
 .section:nth-of-type(odd) {
-	background-color: grgb(0, 128, 0)}
+	background-color: green}
 
 .inner {
 	max-width: 1340px;
