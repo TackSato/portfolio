@@ -5,6 +5,7 @@ body {
 	line-height: 1.8;
 	letter-spacing: .8px;
 	color: black;
+	background-color: green;
 }
 
 a {
@@ -41,7 +42,8 @@ ul, li {
 }
 
 .section:nth-of-type(odd) {
-	background-color: green}
+	background-color: green
+}
 
 .inner {
 	max-width: 1340px;
@@ -56,7 +58,7 @@ ul, li {
 	margin-bottom: 40px;
 	text-align: center;
 	letter-spacing: .05em;
-	color: green;
+	color: red;
 }
 
 .lead {
@@ -169,6 +171,7 @@ ul, li {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	margin-bottom: -50px;
+	background-color: green;
 }
 
 .skill-item {
@@ -177,6 +180,7 @@ ul, li {
 	justify-content: space-between;
 	width: 48%;
 	margin-bottom: 50px;
+	background-color: green;
 }
 
 .skill-img {
@@ -187,6 +191,7 @@ ul, li {
 
 .skill-body {
 	flex: 1;
+	background-color: green;
 }
 
 .skill-name {
