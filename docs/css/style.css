@@ -88,6 +88,7 @@ ul, li {
 	line-height: 1.2;
 	margin-right: 20px;
 	letter-spacing: .05em;
+	background-color: yellow;
 }
 
 .header-logo a {
