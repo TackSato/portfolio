@@ -56,7 +56,7 @@ ul, li {
 	margin-bottom: 40px;
 	text-align: center;
 	letter-spacing: .05em;
-	color: yrgb(255, 255, 255)w;
+	color: green;
 }
 
 .lead {
@@ -217,7 +217,7 @@ ul, li {
 
 .page-top .material-icons-outlined {
 	vertical-align: bottom;
-	color: #f1282550;
+	color: green;
 }
 
 /*--- footer ---*/
