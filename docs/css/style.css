@@ -41,7 +41,7 @@ ul, li {
 }
 
 .section:nth-of-type(odd) {
-
+	background-color: green
 }
 
 .inner {
@@ -79,7 +79,7 @@ ul, li {
 	align-items: center;
 	justify-content: space-between;
 	padding: 20px 40px;
-	background-color: green;
+
 }
 
 .header-logo {
